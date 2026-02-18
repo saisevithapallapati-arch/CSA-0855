@@ -1,0 +1,11 @@
+x=200
+y=500
+temp=x
+x=y
+y=temp
+print("the value of x after swapping:{}".format(x))
+print("the value of y after swapping:{}".format(y))
+
+output:
+the value of x after swapping:500
+the value of y after swapping:200
