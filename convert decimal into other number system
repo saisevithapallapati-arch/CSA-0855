@@ -1,0 +1,11 @@
+dec=10
+print("enter the decimal value:")
+print(bin(dec),"in binary")
+print(oct(dec),"in octal")
+print(hex(dec),"in hexagonal")
+
+output:
+enter the decimal value:
+0b1010 in binary
+0o12 in octal
+0xa in hexagonal
