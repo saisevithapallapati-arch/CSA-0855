@@ -1,0 +1,13 @@
+n=int(input("enter the limit:"))
+count=0
+for i in range(1,n+1):
+    count=count+i*i
+    print("sum of sqaures of n natural numbers",count)
+
+output:
+enter the limit:5
+sum of sqaures of n natural numbers 1
+sum of sqaures of n natural numbers 5
+sum of sqaures of n natural numbers 14
+sum of sqaures of n natural numbers 30
+sum of sqaures of n natural numbers 55
